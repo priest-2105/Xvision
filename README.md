@@ -1,7 +1,7 @@
 # Xvision | E-commerce react app
 Simple ecommerce react js app with firebase [typescript].
 
-### [Live demo](https://Xvision-ecommerce.web.app/)
+### [Live demo](https://Xvision.netlify.app/)
 
 
 ## Run Locally
