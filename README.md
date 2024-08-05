@@ -1,8 +1,7 @@
 # Xvision | E-commerce react app
 Simple ecommerce react js app with firebase [typescript].
-![Firebase Deploy](https://github.com/jgudo/ecommerce-react/workflows/Firebase%20Deploy/badge.svg)
 
-### [Live demo](https://Xvision-ecommerce.web.app/)
+### [Live demo](https://Xvision.netlify.app/)
 
 ![Xvision screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny1.png)
 ![Xvision screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny2.png)
